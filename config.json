@@ -1,0 +1,16 @@
+{
+    "server_config": {
+        "ssl_cert": {
+            "private_key": "",
+            "private_key_encoding": "",
+            "ca_certificate": "",
+            "ca_certificate_encoding": "",
+            "certificate": "",
+            "certificate_encoding": ""
+        },
+        "ports": {
+            "http": 8080,
+            "https": 443
+        }
+    }
+}
